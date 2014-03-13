@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [wout/svg.js](http://github.com/wout/svg.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/wout-svg.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # svg.js
 
 A lightweight library for manipulating and animating SVG.
